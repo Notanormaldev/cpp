@@ -11,7 +11,7 @@ string removeouterparen(string s){
     for(char ch:s){
         if(ch=='('){
             if(count>0) result+=ch;
-            count++;
+            count++;  
         }else{
             count--;
             if(count>0) result+=ch;
