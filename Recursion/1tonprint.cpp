@@ -7,7 +7,6 @@ void fun(int i,int n){
     cout<<i<<endl;
     cout<<"doremon"<<endl;
     // c++;
-    
     fun(i+1,n);
 }
 
@@ -20,4 +19,4 @@ int main(){
 }
 
 //first appr - fun(1,n) two vars
-//sec appr - count type and count++
+//sec appr - count type and count++ //not good
