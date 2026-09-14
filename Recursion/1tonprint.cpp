@@ -6,8 +6,8 @@ void fun(int i,int n){
     if(i>n) return;
     cout<<i<<endl;
     cout<<"doremon"<<endl;
-    // c++;
     fun(i+1,n);
+    // c++;
 }
 
 
