@@ -19,3 +19,4 @@ int main(){
    cout<<func(n);
     return 0;
 }
+//functional recursion
