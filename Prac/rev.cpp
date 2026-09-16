@@ -10,7 +10,7 @@ int  rev(int n){
        rev=rev*10+lastdgt;
        n=n/10;
     }
-    if(rev<INT_MIN  && rev>INT_MAX) return 0;
+    if(rev<INT_MIN  || rev>INT_MAX) return 0;
     return rev;
 }
 
