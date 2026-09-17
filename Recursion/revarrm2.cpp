@@ -7,7 +7,6 @@ void revarr(int arr[],int n,int i){
    revarr(arr,n,i+1);
 }
 
-
 int main(){
   int n;
   cin>>n;
