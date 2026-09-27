@@ -1,1 +1,0 @@
-cout<<"not prime" break
