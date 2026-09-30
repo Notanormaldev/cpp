@@ -5,6 +5,7 @@
 using namespace std;
 
 
+
 void bubble_sort(int arr[],int n){
     for(int i=0;i<n-1;i++){
         for(int j=0;j<n-i-1;j++){
@@ -14,6 +15,8 @@ void bubble_sort(int arr[],int n){
         }
     }
 };
+
+
 
 void bubble_sort2(int arr[],int n){
   for(int i=n-1;i>=0;i--){
@@ -34,8 +37,9 @@ void bubble_sort2(int arr[],int n){
 }
 
 
-int main(){
 
+
+int main(){
     int n;
     cin>>n;
     int arr[n];
