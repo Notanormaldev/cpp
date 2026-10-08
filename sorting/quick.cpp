@@ -1,7 +1,7 @@
 //quick sort 
 //nlogn
 //1
-//tuif
+//tuf
 
 
 class Solution {
