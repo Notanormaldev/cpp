@@ -27,6 +27,7 @@ public:
    }
 
 
+   
    void qs(vector<int>&arr ,int low ,int high){
       if(low<high){
         int pri=prior(arr,low,high);
