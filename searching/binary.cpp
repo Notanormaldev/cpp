@@ -24,6 +24,7 @@ int main(){
      low=mid+1;
     }
   }
+  
   cout<<"not found";
 
 }
