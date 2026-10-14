@@ -14,7 +14,7 @@ int main(){
     temp/=10;
   }
  
-  temp=n;
+   temp=n;
  while(temp>0){
   int ld=temp%10;
   sum=sum+pow(ld,digits);
