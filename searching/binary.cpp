@@ -8,7 +8,7 @@ int main(){
   for(int i=0;i<arr.size();i++){ 
     cin>>arr[i];
  };
-  int target;
+   int target;
   cout<<"enter the target";
   cin>>target;
   int low=0;
