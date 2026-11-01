@@ -11,7 +11,7 @@ int main(){
     }
     
     for(int i=0;i<s.size();i++){
-        if(hash[s[i]]==1){
+         if(hash[s[i]]==1){
             cout<<s[i];
             return 0;
         }
