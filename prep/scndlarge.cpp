@@ -4,7 +4,7 @@ using namespace std;
 
 
 int secondlarge(vector<int>&arr){
-    int fl=INT_MIN;
+     int fl=INT_MIN;
     int sl=INT_MIN;
     bool notsca=false;
     for(int i=0;i<arr.size();i++){
